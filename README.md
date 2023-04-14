@@ -1,9 +1,11 @@
 ![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/1YeoAcyKqrwdfsd.jpg)
 
-About me
+## I'm a beginner Software and QA Engineer
 
-Latest sm YT vid
+My projects and test artifacts
 
 Languages and Tools
+
+My Certificates
 
 Follow Me
