@@ -1,4 +1,4 @@
-![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/1YeoAcyKqrwdfsd.jpg)
+![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/stock.jpg)
 
 ## I'm a beginner Software and QA Engineer
 
