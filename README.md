@@ -15,5 +15,6 @@
 ---
 🖨️ Random Dev Quote |💰 You can help me by Donating
 ------------- | -------------
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) | [![Chachachay](https://img.shields.io/badge/-Chachachay-24124B?style=for-the-badge&logo=)](https://chachachay.me/3968060)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko) | [![Chachachay](https://img.shields.io/badge/-Chachachay-24124B?style=for-the-badge&logo=)](https://chachachay.me/3968060)
+___
 [![](https://visitcount.itsvg.in/api?id=bkhtv&icon=5&color=11)](https://visitcount.itsvg.in)
