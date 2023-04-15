@@ -1,8 +1,8 @@
 ![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/YouCut_20230415_092504183%20(1).gif)
 
 ## 💫 About Me:
-#### I am Software and QA Engineer with a passion for Science and Cyberpunk culture.
-#### I am very interested in technologies.
+#### :: 😎 I am Software and QA Engineer with a passion for Science and Cyberpunk culture.
+#### :: 📫 I am very interested in technologies.
 #### My goal is to combine my hobbies and carrier.
 #### Shoot me an Email or add me on LinkedIn
 
