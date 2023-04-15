@@ -1,6 +1,6 @@
 ![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/YouCut_20230415_092504183%20(1).gif)
 
-## 💫1  About Me:
+## 🤖  About Me:
 +  Software and QA Engineer, Content creator
 + My advanced computer skills and vivid interest in technology advances have been honed and multiplied by me since childhood
 +    My goal is to combine my hobbies and career.
@@ -12,12 +12,8 @@
 + [QA course by Stepik](https://stepik.org/cert/1759715)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-
 ---
+🖨️ Random Dev Quote |💰 You can help me by Donating
+------------- | -------------
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) | [![Chachachay](https://img.shields.io/badge/-Chachachay-24124B?style=for-the-badge&logo=)](https://chachachay.me/3968060)
 [![](https://visitcount.itsvg.in/api?id=bkhtv&icon=5&color=11)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Chachachay](https://chachachay.me/img/logo.svg)](https://chachachay.me/3968060)
