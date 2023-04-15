@@ -1,4 +1,4 @@
-![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/PicsArt_04-15-04.02.52.jpg)
+![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/YouCut_20230415_092504183%20(1).gif)
 
 ## I'm a Software and QA Engineer
 
