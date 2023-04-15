@@ -2,7 +2,7 @@
 
 ## 💫1  About Me:
 +  Software and QA Engineer, Content creator
-+ 📫 I am very interested in technologies.
++ My advanced computer skills and vivid interest in technology advances have been honed and multiplied by me since childhood
 +    My goal is to combine my hobbies and career.
 
 ## 🖥️ Tech Stack:
