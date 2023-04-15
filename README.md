@@ -14,4 +14,4 @@ Shoot me an Email or add me on LinkedIn
 ## Follow Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/obsessive.intervence) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/naran-bakhitov-758a37262) 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
