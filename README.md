@@ -1,22 +1,15 @@
 ![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/YouCut_20230415_092504183%20(1).gif)
 
-## 💫 About Me:
-#### :: 😎 I am Software and QA Engineer with a passion for Science and Cyberpunk culture.
-#### :: 📫 I am very interested in technologies.
-#### My goal is to combine my hobbies and carrier.
-#### Shoot me an Email or add me on LinkedIn
+## 💫1  About Me:
++  Software and QA Engineer, Content creator
++ 📫 I am very interested in technologies.
++    My goal is to combine my hobbies and career.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/obsessive.intervence) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/naran-bakhitov-758a37262)
-
-## My projects and test artifacts
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-## My Certificates
-[![EF SET](https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg)](http://www.efset.org/cert/dv8eMT) [![Stepik](https://stepik.org/static/frontend/topbar_logo.svg)](https://stepik.org/cert/1759715) 
-
-
+## 🖥️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-24124B?style=for-the-badge&logo=Python&logoColor=F7D148) ![Markdown](https://img.shields.io/badge/-Markdown-24124B?style=for-the-badge&logo=Markdown&logoColor=000000) ![Azure](https://img.shields.io/badge/-Azure-24124B?style=for-the-badge&logo=AzureDevOps&logoColor=0074D1) ![Jira](https://img.shields.io/badge/-Jira-24124B?style=for-the-badge&logo=Jira&logoColor=1F77EE) ![Arduino](https://img.shields.io/badge/-Arduino-24124B?style=for-the-badge&logo=Arduino&logoColor=00707D) ![Android Studio](https://img.shields.io/badge/-Android_Studio-24124B?style=for-the-badge&logo=AndroidStudio&logoColor=90C154)
+## 📜 My Certificates
++ [EF SET](http://www.efset.org/cert/dv8eMT) 
++ [QA course by Stepik](https://stepik.org/cert/1759715)
 
 
 ### ✍️ Random Dev Quote
