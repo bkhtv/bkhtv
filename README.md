@@ -10,7 +10,10 @@
 + Postman Collections 
 
 ## 📃 My Certificates
-[![EF SET](https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg)](http://www.efset.org/cert/dv8eMT) [![QA course by Stepik](https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg)](https://stepik.org/cert/1759715)
+
+[![EF SET](https://img.shields.io/badge/-EF_Standart_english_test-24124B?style=for-the-badge&logo=)](http://www.efset.org/cert/dv8eMT) 
+[![QA course by Stepik](https://img.shields.io/badge/-QA_COURSE_BY_STEPIK-24124B?style=for-the-badge&logo=)](https://stepik.org/cert/1759715)
+
 
 ---
 🖨️ Random Dev Quote |💰 Help me by Donating
