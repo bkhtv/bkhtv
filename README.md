@@ -3,13 +3,13 @@
 ## 🖥️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-24124B?style=for-the-badge&logo=Python&logoColor=F7D148) ![Markdown](https://img.shields.io/badge/-Markdown-24124B?style=for-the-badge&logo=Markdown&logoColor=00000) ![Azure](https://img.shields.io/badge/-Azure-24124B?style=for-the-badge&logo=AzureDevOps&logoColor=0074D1) ![Jira](https://img.shields.io/badge/-Jira-24124B?style=for-the-badge&logo=Jira&logoColor=1F77EE) ![Arduino](https://img.shields.io/badge/-Arduino-24124B?style=for-the-badge&logo=Arduino&logoColor=00707D) ![Android Studio](https://img.shields.io/badge/-Android_Studio-24124B?style=for-the-badge&logo=AndroidStudio&logoColor=90C154) ![Github](https://img.shields.io/badge/-Github-24124B?style=for-the-badge&logo=github&logoColor=00000)
 ## 📱 Testing Documentation
-+ Checklists
-+ Test-Suits and Test-Cases
++ [Checklists](https://github.com/bkhtv/Checklists)
++ [Test-Suits and Test-Cases](https://github.com/bkhtv/Test-Suits-and-Test-Cases.git)
 + Bug-Reports
 + SQL Queries
 + Postman Collections 
 
-## 📜 My Certificates
+## 📃 My Certificates
 + [EF SET](http://www.efset.org/cert/dv8eMT) 
 + [QA course by Stepik](https://stepik.org/cert/1759715)
 
