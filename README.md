@@ -1,20 +1,17 @@
 ![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/YouCut_20230415_092504183%20(1).gif)
-
-# 🤖  About Me:
-+ Software and QA Engineer, Content Creator
-+ Every day I try to hone my IT skills and expand my scope of my knowledge in technology advances.
-+ My goal is to combine my hobbies and career.
-
-# 🖥️ Tech Stack:
+# I'm Software and QA Engineer  
+## 🖥️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-24124B?style=for-the-badge&logo=Python&logoColor=F7D148) ![Markdown](https://img.shields.io/badge/-Markdown-24124B?style=for-the-badge&logo=Markdown&logoColor=000000) ![Azure](https://img.shields.io/badge/-Azure-24124B?style=for-the-badge&logo=AzureDevOps&logoColor=0074D1) ![Jira](https://img.shields.io/badge/-Jira-24124B?style=for-the-badge&logo=Jira&logoColor=1F77EE) ![Arduino](https://img.shields.io/badge/-Arduino-24124B?style=for-the-badge&logo=Arduino&logoColor=00707D) ![Android Studio](https://img.shields.io/badge/-Android_Studio-24124B?style=for-the-badge&logo=AndroidStudio&logoColor=90C154)
-# 📜 My Certificates
+## 📜 My Certificates
 + [EF SET](http://www.efset.org/cert/dv8eMT) 
 + [QA course by Stepik](https://stepik.org/cert/1759715)
 
 
+
+
 ---
-🖨️ Random Dev Quote |💰 You can help me by Donating
+🖨️ Random Dev Quote |💰 Help me by Donating
 ------------- | -------------
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko) | [![Chachachay](https://img.shields.io/badge/-Chachachay-24124B?style=for-the-badge&logo=)](https://chachachay.me/3968060)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) | [![Chachachay](https://img.shields.io/badge/-Chachachay-24124B?style=for-the-badge&logo=)](https://chachachay.me/3968060)
 ___
 [![](https://visitcount.itsvg.in/api?id=bkhtv&icon=5&color=11)](https://visitcount.itsvg.in)
