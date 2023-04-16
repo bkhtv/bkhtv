@@ -10,8 +10,7 @@
 + Postman Collections 
 
 ## 📃 My Certificates
-+ [EF SET](http://www.efset.org/cert/dv8eMT) 
-+ [QA course by Stepik](https://stepik.org/cert/1759715)
+[![EF SET](https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg)](http://www.efset.org/cert/dv8eMT) [![QA course by Stepik](https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg)](https://stepik.org/cert/1759715)
 
 ---
 🖨️ Random Dev Quote |💰 Help me by Donating
