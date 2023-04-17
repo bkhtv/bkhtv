@@ -1,4 +1,4 @@
-## Greetings, in the cybernetic age where we hack the limits of what's possible!
+## Greetings, in the cybernetic age where we hack the limits of what's possible.
 
 ![Header](https://github.com/bkhtv/bkhtv/blob/main/assets/YouCut_20230417_230517024%20(2).gif)
   
@@ -9,12 +9,13 @@
 + [Test-Suits and Test-Cases](https://github.com/bkhtv/Test-Suits-and-Test-Cases.git)
 + Bug-Reports
 + SQL Queries
-+ Postman Collections 
++ Postman Collections
 
 ## 📃 My Certificates
 
 [![EF SET](https://img.shields.io/badge/-EF_Standart_english_test-24124B?style=for-the-badge&logo=)](http://www.efset.org/cert/dv8eMT) 
 [![QA course by Stepik](https://img.shields.io/badge/-QA_COURSE_BY_STEPIK-24124B?style=for-the-badge&logo=)](https://stepik.org/cert/1759715)
+
 
 ---
 🖨️ Random Dev Quote |💰 Help me by Donating
